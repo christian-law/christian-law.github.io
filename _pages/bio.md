@@ -3,9 +3,7 @@ permalink: /bio/
 title: "Bio"
 ---
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <div style="width: 45%; overflow: hidden;">
-    <img src="/assets/images/husky.jpg" alt="Husky" style="width: 100%; transform: scale(1.3); transform-origin: center;">
-  </div>
+  <img src="/assets/images/husky.jpg" alt="Husky" style="width: 45%; border-radius: 8px;">
   <img src="/assets/images/bulldog.jpg" alt="Bulldog" style="width: 45%; border-radius: 8px;">
 </div>
 
