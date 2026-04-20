@@ -3,9 +3,12 @@ permalink: /bio/
 title: "Bio"
 ---
 <div style="display: flex; gap: 20px; justify-content: center;">
-    <img src="/assets/images/husky.jpg" alt="Husky" style="width: 45%; border-radius: 8px;">
+  <div style="width: 45%; overflow: hidden;">
+    <img src="/assets/images/husky.jpg" alt="Husky" style="width: 100%; transform: scale(1.3); transform-origin: center;">
+  </div>
   <img src="/assets/images/bulldog.jpg" alt="Bulldog" style="width: 45%; border-radius: 8px;">
 </div>
+
 
 I am a PhD candidate in Criminology and Justice Policy at Northeastern University and
 an incoming Assistant Professor of Sociology and Criminology at Butler University.
