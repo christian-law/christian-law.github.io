@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Criminologist
 email:
-description: >- "Welcome to my page! Feel free to navigate around using the tabs at the top."
+description: "Welcome to my page! Feel free to navigate around using the tabs at the top."
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
