@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
-#Welcome to me page! To see more of my work, navigate to one of the tabs up top!
+# Welcome to my page! To see more of my work, navigate to one of the tabs up top!
 
 I am a PhD candidate. My published and forthcoming works are below:
 - **Who Watches the Watchmen?**
